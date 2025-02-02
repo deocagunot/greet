@@ -4,3 +4,5 @@ GREETINGS
 
 1. Hello - English
 2. Bunjor - Italian
+3. Mabuhay - Filipino
+4. Nihawma - Japanese
